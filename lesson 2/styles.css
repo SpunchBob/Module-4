@@ -26,6 +26,16 @@
     font-family: Courier;
 }
 
+.paragraph-4 {
+    font-size: "24px";
+    font-style: italic;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 60px;
+    background: green
+}
+
 .info {
     font-weight: bold;
 }
